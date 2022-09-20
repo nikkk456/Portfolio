@@ -5,7 +5,9 @@
   .sm-img{
     width: 30%;
   }
-  
+  .sm-btn{
+    width: 500px;
+  }
 }
 
 
@@ -16,9 +18,12 @@
 .navbar-custome{
   background-color: rgb(114 154 205);
 }
+.button{
+  width: 20%;
+}
 
 .rounded2{
-  width: 45%;
+  width: 80%;
   border-radius: 8%;
   
 }

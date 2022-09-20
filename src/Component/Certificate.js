@@ -9,10 +9,10 @@ const Certificate = () => {
         <h2 style={{ fontFamily: "Lora" }} className="text-center my-3"><i className="fa-solid fa-certificate mx-2"></i>Certificates</h2>
         <div className='d-flex justify-content-around' style={{ width: "100%", backgroundSize:'cover' }}>
           <div data-aos="fade-right"  data-aos-duration="500">
-          <img src={img1} className='mx-2 img-fluid rounded2'></img>
+          <img src={img1} className='mx-2 img-fluid rounded2 image'></img>
           </div>
           <div data-aos="fade-left"  data-aos-duration="500">
-          <img src={img2} className='mx-2 img-fluid rounded2'></img>
+          <img src={img2} className='mx-2 img-fluid rounded2 image'></img>
           </div>
         </div>
       </div>

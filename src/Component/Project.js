@@ -16,7 +16,7 @@ const Project = () => {
             <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
               <div className="accordion-body d-flex flex-column">
                 <strong>Website that let you customise the dress</strong> <br /> This webiste is designed with the help of HTML5/CSS and javascript and with the help of Bootstrap 5. In this project user can easily customise the dress before ordering any dress she wants according to her body type, hence Solving the major problem of customisation.
-                <a className="btn btn-dark my-2 " href="https://github.com/nikkk456/Dressnality" role="button" style={{ width: "11%" }}>Source Code</a>
+                <a className="btn btn-dark my-2 button" href="https://github.com/nikkk456/Dressnality" role="button" target='_blank'>Source Code</a>
               </div>
             </div>
           </div>
@@ -31,7 +31,7 @@ const Project = () => {
             <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
               <div className="accordion-body d-flex flex-column">
                 <strong>Website which fetch the latest news of the day countryWise</strong> <br /> Its a project based on my learning in React JS And javascript, Bootstrap also helped me to Create this project successfully. You can fetch news category wise.
-                <a className="btn btn-dark my-2" href="https://github.com/nikkk456/NewsDroom" role="button" style={{ width: "11%" }}>Source Code</a>
+                <a className="btn btn-dark my-2 button" href="https://github.com/nikkk456/NewsDroom" target='_blank' role="button" >Source Code</a>
               </div>
             </div>
           </div>
@@ -45,8 +45,8 @@ const Project = () => {
             </h2>
             <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
               <div className="accordion-body d-flex flex-column">
-                <strong>Website that helps Travellor alot</strong> Website which help travellors to gain the info in one click like weather reports, Travelling routes, hotels and restaurants, dormitory and much more you can also hire a guide and your can alos meetup woth the fellow travellors not only this you can also share your videos, photos and your travell journey on the social media blog on this website. We created this website by Using the REact JS and javascript and Bootstrap
-                <a className="btn btn-dark my-2" href="https://github.com/nikkk456/Travel_Mate" role="button" style={{ width: "11%" }}>Source Code</a>
+                <strong>Website that helps Travellor alot</strong> Website which help travellors to gain the info in one click like weather reports, Travelling routes, hotels and restaurants, dormitory and much more you can also hire a guide and you can also meetup with the fellow travellers not only this you can also share your videos, photos and your travel journey on the social media blog on this website. We created this website by Using the React JS and javascript and Bootstrap
+                <a className="btn btn-dark btn-sm my-2 button" href="https://github.com/nikkk456/Travel_Mate" role="button" target='_blank' >Source Code</a>
               </div>
             </div>
           </div>
