@@ -5,7 +5,7 @@ import img2 from './Image/training2.png'
 const Certificate = () => {
   return (
     <div>
-      <div className='container'>
+      <div className='container' id='certificate'>
         <h2 style={{ fontFamily: "Lora" }} className="text-center my-3"><i className="fa-solid fa-certificate mx-2"></i>Certificates</h2>
         <div className='d-flex justify-content-around' style={{ width: "100%", backgroundSize:'cover' }}>
           <div data-aos="fade-right"  data-aos-duration="500">

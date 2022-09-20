@@ -3,7 +3,7 @@ import React from 'react'
 const Experience = () => {
   return (
     <div>
-      <div className='container'>
+      <div className='container' id='experience'>
         <h2 style={{ fontFamily: "Lora" }} className="text-center my-3"><i className="fa-solid fa-paperclip mx-2"></i>Experience</h2>
         <div data-aos="fade-up" data-aos-duration="500">
         <div>

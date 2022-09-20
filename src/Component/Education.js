@@ -3,7 +3,7 @@ import React from 'react'
 const Education = () => {
     return (
         <div>
-            <div className='container'>
+            <div className='container' id='eductaion'>
                 <h2 style={{ fontFamily: "Lora" }} className="text-center my-1"><i className="fa-solid fa-graduation-cap mx-2"></i>Education</h2>
                 <div>
                     <div data-aos="fade-up" data-aos-duration="500">

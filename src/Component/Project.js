@@ -3,7 +3,7 @@ import React from 'react'
 const Project = () => {
   return (
     <div>
-      <div className='container'>
+      <div className='container' id='project'>
         <h2 style={{ fontFamily: "Lora" }} className="text-center my-3"><i className="fa-solid fa-diagram-project mx-2"></i>Projects</h2>
         <div className="accordion" id="accordionExample">
           <div data-aos="fade-up" data-aos-duration="500">
